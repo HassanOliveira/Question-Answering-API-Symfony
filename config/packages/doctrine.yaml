@@ -4,8 +4,8 @@ doctrine:
         driver: 'pdo_pgsql'  # Driver do banco de dados (por exemplo, pdo_pgsql para PostgreSQL)
         host: 'localhost'    # Host do banco de dados
         port: 5432           # Porta do banco de dados
-        dbname: 'db_smarttribune2' # Nome do banco de dados
-        user: 'postgres'       # Nome de usuário do banco de dados
+        dbname: 'db_smarttribune_hassan' # Nome do banco de dados
+        user: 'hassan'       # Nome de usuário do banco de dados
         password: '123456'   # Senha do banco de dados
         charset: utf8 
         # IMPORTANT: You MUST configure your server version,
