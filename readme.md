@@ -52,8 +52,7 @@ Modifiez également l'URL dans le fichier ".env" :
 
 DATABASE_URL=postgresql://hassan:123456@127.0.0.1:5432/db_smarttribune_hassan
 
-bash
-```
+```bash
 # Exécuter la commande de création d'une base de données
 php bin/console doctrine:database:create
 
