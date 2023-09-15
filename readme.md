@@ -12,7 +12,7 @@
    * 💡 [Pré-requis](#💡-pré-requis)
    * 🎲 [Exécution de l'application](#🎲-exécution-de-l'application)
    * 🛠  [Technologie](#🛠-technologie)
-   * 👨‍💻 [Auteur](#👨‍💻-Auteur)
+   * 👨‍💻 [Auteur](#-Auteur)
 <!--te-->
 
 <h4 align="center"> 
