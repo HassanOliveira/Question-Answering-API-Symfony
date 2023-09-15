@@ -11,8 +11,8 @@
    * 📑 [Índice](#📑-indice)
    * 💡 [Pré-requisitos](#💡-pré-requis)
    * 🎲 [Executando a Aplicação](#🎲-exécution-de-l'application)
-   * 🛠  [Tecnologias](#🛠-tecnologias)
-   * 👨‍💻 [Autor](#👨‍💻-autor)
+   * 🛠  [Tecnologias](#🛠-technologie)
+   * 👨‍💻 [Autor](#👨‍💻-auteur)
 <!--te-->
 
 <h4 align="center"> 
