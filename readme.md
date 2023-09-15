@@ -10,7 +10,7 @@
    * ⌨️ [Q&A API](#-q&a-api)
    * 📑 [Indice](#-indice)
    * 💡 [Pré-requis](#-pré-requis)
-   * 🎲 [Exécution de l'application](#-exécution-de-l'application)
+   * 🎲 [Exécution de l'application](#-exécution-de-lapplication)
    * 🛠  [Technologie](#-technologie)
    * 👨‍💻 [Auteur](#-auteur)
 <!--te-->
