@@ -7,7 +7,7 @@
 📑 Indice
 =================
 <!--ts-->
-   * ⌨️ [Q&A API](#-q&a-api)
+   * ⌨️ [Q&A API](#⌨️-q&a-api)
    * 📑 [Indice](#-indice)
    * 💡 [Pré-requis](#-pré-requis)
    * 🎲 [Exécution de l'application](#-exécution-de-lapplication)
