@@ -7,12 +7,12 @@
 📑 Indice
 =================
 <!--ts-->
-   * ⌨️ [Q&A API](#q&a-api)
-   * 📑 [Indice](#indice)
-   * 💡 [Pré-requis](#pré-requis)
-   * 🎲 [Exécution de l'application](#exécution-de-l'application)
-   * 🛠  [Technologie](#technologie)
-   * 👨‍💻 [Auteur](#-Auteur)
+   * ⌨️ [Q&A API](#-q&a-api)
+   * 📑 [Indice](#-indice)
+   * 💡 [Pré-requis](#-pré-requis)
+   * 🎲 [Exécution de l'application](#-exécution-de-l'application)
+   * 🛠  [Technologie](#-technologie)
+   * 👨‍💻 [Auteur](#-auteur)
 <!--te-->
 
 <h4 align="center"> 
